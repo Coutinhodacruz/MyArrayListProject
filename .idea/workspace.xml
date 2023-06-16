@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af9f0c92-2aff-4260-87d2-19f17184fccd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyArrayListProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/customException/QueueEmptyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/customException/QueueFullException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queue/PregnanantWoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queue/PregnantWomenQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/todoTask/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/todoTask/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/todoTask/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/todoTask/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/todoTask/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/todoTask/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/todoTask/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/queue/PregnantWomenQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/queue/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/todoTask/MyArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/todoTask/MyLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/todoTask/MyQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/todoTask/MyStackTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2RAvD1TyZtoJw2XwcSCHY7T7Exk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/MyArrayListProject/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\MyArrayListProject\src" />
+      <recent name="C:\Users\Admin\MyArrayListProject\test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="queue" />
+      <recent name="todoTask" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PregnantWomenQueueTest">
+    <configuration name="PregnanantWoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue.PregnanantWoman" />
+      <module name="MyArrayListProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLinkedListTest.testRemovingElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyArrayListProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="todoTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="todoTask" />
+      <option name="MAIN_CLASS_NAME" value="todoTask.MyLinkedListTest" />
+      <option name="METHOD_NAME" value="testRemovingElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PregnantWomenQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyArrayListProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="queue" />
+      <option name="MAIN_CLASS_NAME" value="queue.PregnantWomenQueueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyArrayListProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="queue" />
+      <option name="MAIN_CLASS_NAME" value="queue.QueueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueTest.testElementMovement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyArrayListProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="queue" />
+      <option name="MAIN_CLASS_NAME" value="queue.QueueTest" />
+      <option name="METHOD_NAME" value="testElementMovement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PregnantWomenQueueTest" />
+        <item itemvalue="Application.PregnanantWoman" />
+        <item itemvalue="JUnit.MyLinkedListTest.testRemovingElement" />
+        <item itemvalue="JUnit.QueueTest.testElementMovement" />
+        <item itemvalue="JUnit.QueueTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af9f0c92-2aff-4260-87d2-19f17184fccd" name="Changes" comment="" />
+      <created>1686705578752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686705578752</updated>
+      <workItem from="1686705581068" duration="9595000" />
+      <workItem from="1686738423848" duration="407000" />
+      <workItem from="1686740625301" duration="26887000" />
+      <workItem from="1686778310563" duration="2194000" />
+      <workItem from="1686829201272" duration="10985000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
