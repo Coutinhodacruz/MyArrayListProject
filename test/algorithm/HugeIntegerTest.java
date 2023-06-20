@@ -25,11 +25,11 @@ public class HugeIntegerTest {
     public void testAdd() {
         HugeInteger hugeInt1 = new HugeInteger();
         HugeInteger hugeInt2 = new HugeInteger();
-        hugeInt1.parse("12345");
+        hugeInt1.parse("19945");
         hugeInt2.parse("54321");
 
         hugeInt1.add(hugeInt2);
-        assertEquals("66666", hugeInt1.toString());
+        assertEquals("74266", hugeInt1.toString());
     }
 
     @Test

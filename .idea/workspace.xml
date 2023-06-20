@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af9f0c92-2aff-4260-87d2-19f17184fccd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/HugeInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/algorithm/HugeIntegerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/HugeInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/HugeInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/algorithm/HugeIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/algorithm/HugeIntegerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +80,7 @@
       <recent name="todoTask" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.HugeIntegerTest.testAdd">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.Main" />
       <module name="MyArrayListProject" />
@@ -123,7 +122,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyLinkedListTest.testRemovingElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HugeIntegerTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyArrayListProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="algorithm" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.HugeIntegerTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyArrayListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyArrayListProject" />
       <extension name="coverage">
         <pattern>
@@ -132,23 +147,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="todoTask" />
-      <option name="MAIN_CLASS_NAME" value="todoTask.MyLinkedListTest" />
-      <option name="METHOD_NAME" value="testRemovingElement" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PregnantWomenQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MyArrayListProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="queue" />
-      <option name="MAIN_CLASS_NAME" value="queue.PregnantWomenQueueTest" />
+      <option name="MAIN_CLASS_NAME" value="todoTask.MyArrayListTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -156,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.HugeIntegerTest.testAdd" />
+        <item itemvalue="JUnit.MyArrayListTest" />
         <item itemvalue="JUnit.HugeIntegerTest" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.PregnanantWoman" />
-        <item itemvalue="JUnit.PregnantWomenQueueTest" />
-        <item itemvalue="JUnit.MyLinkedListTest.testRemovingElement" />
       </list>
     </recent_temporary>
   </component>
@@ -178,12 +177,28 @@
       <workItem from="1686778310563" duration="2194000" />
       <workItem from="1686829201272" duration="10985000" />
       <workItem from="1686890439836" duration="888000" />
-      <workItem from="1687105542913" duration="2945000" />
+      <workItem from="1687105542913" duration="3309000" />
+      <workItem from="1687189318474" duration="272000" />
+      <workItem from="1687191594173" duration="261000" />
+      <workItem from="1687207617430" duration="257000" />
+      <workItem from="1687234879995" duration="700000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1687110345473</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687110345473</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>

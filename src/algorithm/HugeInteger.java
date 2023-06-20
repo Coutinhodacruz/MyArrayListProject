@@ -2,7 +2,7 @@ package algorithm;
 
 
 public class HugeInteger {
-    private int[] digits;
+    private final int[] digits;
 
     public HugeInteger() {
         digits = new int[40];
